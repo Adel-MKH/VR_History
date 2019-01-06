@@ -1,0 +1,25 @@
+.btn-store {
+  color: white;
+  min-width: 180px;
+  padding: 12px 20px !important;
+  border-color: white !important;
+  margin-top: 10px;
+}
+
+.btn-store:focus, 
+.btn-store:hover {
+  color: #ffffff !important;
+  background-color: #b71c1c;
+  border-color: #b71c1c !important;
+}
+
+.btn-store .btn-label, 
+.btn-store .btn-caption {
+  display: block;
+  text-align: center;
+  line-height: 1;
+}
+
+.btn-store .btn-caption {
+  font-size: 10px;
+}
